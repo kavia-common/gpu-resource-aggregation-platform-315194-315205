@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/gpu-resource-aggregation-platform-315194-315205/mcp_backend"
+}
